@@ -1,4 +1,6 @@
 # [Codecov][1] Gradle Example
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-gradle-multiproject.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-gradle-multiproject?ref=badge_shield)
+
 
 1. Set-up your `build.gradle` for collecting coverage in multiproject gradle projects and compiling their coverage with jacoco. [See here](https://github.com/codecov/example-gradle-multiproject/blob/master/build.gradle#L57)
 2. Execute your tests as normal
@@ -8,3 +10,7 @@
   - Otherwise please include your repository upload token. [See here](http://docs.codecov.io/v4.3.0/docs/about-the-codecov-bash-uploader#section-upload-token)
 
 [1]: https://codecov.io/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-gradle-multiproject.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-gradle-multiproject?ref=badge_large)
